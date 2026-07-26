@@ -15,20 +15,44 @@ I enjoy writing software, particularly backend services, developer tooling, and 
 
 My academic and research work has also involved RISC-V, hardware security, systems programming, and Linux kernel development.
 
+I hold an MSc in Cybersecurity Engineering from Politecnico di Torino.
+
 ## What I work with
 
 **Languages and backend**
 
-[![Languages and backend](https://skillicons.dev/icons?i=c,cs,rust,python,go,java,kotlin,nix,bash,dotnet,django,postgres,mysql&perline=13)](https://skillicons.dev)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Systems and infrastructure**
 
-[![Systems and infrastructure](https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,cloudflare,grafana,prometheus,githubactions,gitlab,git&perline=11)](https://skillicons.dev)
-
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![eBPF/XDP](https://img.shields.io/badge/eBPF%2FXDP-Linux_kernel-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SOPS](https://img.shields.io/badge/SOPS-Secrets-4B5563?style=flat-square)
-![Keycloak](https://img.shields.io/badge/Keycloak-IAM-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Loki](https://img.shields.io/badge/-Loki-F5A800?style=flat-square&logo=grafana&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![eBPF/XDP](https://img.shields.io/badge/-eBPF%2FXDP-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SOPS](https://img.shields.io/badge/-SOPS-4B5563?style=flat-square)
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 
 ## Selected work
 
