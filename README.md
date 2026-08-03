@@ -9,13 +9,11 @@
 
 </div>
 
-I'm a security engineer interested in backend, platform, and infrastructure engineering, with a focus on Linux, automation, and reproducible systems.
+I'm a security engineer with an **MSc in Cybersecurity Engineering from Politecnico di Torino**, interested in backend, platform, and infrastructure engineering, with a focus on Linux, automation, and reproducible systems built with Nix and NixOS.
 
-I enjoy writing software, particularly backend services, developer tooling, and infrastructure automation. I work on APIs, development environments, CI/CD workflows, and declarative infrastructure, treating configuration, pipelines, and policies as code: versioned, reviewable, and reproducible.
+I enjoy writing software, particularly backend services, developer tooling, and infrastructure automation. I apply an **Everything as Code** approach to APIs, development environments, CI/CD workflows, and infrastructure.
 
 My academic and research work has also involved RISC-V, hardware security, systems programming, and Linux kernel development.
-
-I hold an MSc in Cybersecurity Engineering from Politecnico di Torino.
 
 ## What I work with
 
