@@ -9,11 +9,11 @@
 
 </div>
 
-I'm a security engineer with an **MSc in Cybersecurity Engineering from Politecnico di Torino**, interested in backend, platform, and infrastructure engineering, with a focus on Linux, automation, and reproducible systems built with Nix and NixOS.
+I'm a computer engineer with an MSc in Cybersecurity Engineering from Politecnico di Torino, focused on backend, platform, and infrastructure engineering. My security interests include identity and access management, authentication and authorization, security protocols, and network security.
 
-I enjoy writing software, particularly backend services, developer tooling, and infrastructure automation. I apply an **Everything as Code** approach to APIs, development environments, CI/CD workflows, and infrastructure.
+I have experience with APIs, CI/CD workflows, Nix-based reproducible and declarative systems, and I favor an Infrastructure as Code approach. I also enjoy writing software, particularly backend services, developer tooling, and infrastructure automation.
 
-My academic and research work has also involved RISC-V, hardware security, systems programming, and Linux kernel development.
+My academic and research background also includes RISC-V, hardware security, systems programming, and Linux kernel development.
 
 ## What I work with
 
@@ -33,6 +33,17 @@ My academic and research work has also involved RISC-V, hardware security, syste
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
+**Security**
+
+![IAM](https://img.shields.io/badge/-IAM-3E5B76?style=flat-square)
+![SAML 2.0](https://img.shields.io/badge/-SAML_2.0-7A4D6A?style=flat-square)
+![OAuth 2.0/OIDC](https://img.shields.io/badge/-OAuth_2.0%2FOIDC-2C3E50?style=flat-square)
+![LDAP](https://img.shields.io/badge/-LDAP-1F4E79?style=flat-square)
+![X.509/PKI](https://img.shields.io/badge/-X.509%2FPKI-5B2C6F?style=flat-square)
+![TLS](https://img.shields.io/badge/-TLS-0E6655?style=flat-square)
+![IPsec](https://img.shields.io/badge/-IPsec-34495E?style=flat-square)
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+
 **Systems and infrastructure**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -49,8 +60,10 @@ My academic and research work has also involved RISC-V, hardware security, syste
 ![Loki](https://img.shields.io/badge/-Loki-F5A800?style=flat-square&logo=grafana&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![eBPF/XDP](https://img.shields.io/badge/-eBPF%2FXDP-FCC624?style=flat-square&logo=linux&logoColor=black)
+![networking](https://img.shields.io/badge/-networking-1D3557?style=flat-square)
+![systemd](https://img.shields.io/badge/-systemd-4B8BBE?style=flat-square)
+![namespaces/cgroups](https://img.shields.io/badge/-namespaces%2Fcgroups-515151?style=flat-square)
 ![SOPS](https://img.shields.io/badge/-SOPS-4B5563?style=flat-square)
-![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 
 ## Selected work
 
