@@ -2,14 +2,14 @@
 
 # Giovanni Nicosia
 
-### Security Engineer · Backend · Platform · Infrastructure
+### Software Engineer · Backend · Platform · Security
 
 [![Website](https://img.shields.io/badge/Website-giovanninicosia.dev-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://giovanninicosia.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanni_Nicosia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-nicosia/)
 
 </div>
 
-I'm a computer engineer with an MSc in Cybersecurity Engineering from Politecnico di Torino, focused on backend, platform, and infrastructure engineering. My security interests include identity and access management, authentication and authorization, security protocols, and network security.
+I'm a software engineer with an MSc in Cybersecurity Engineering from Politecnico di Torino, focused on backend, platform, and infrastructure engineering. My security interests include identity and access management, authentication and authorization, security protocols, and network security.
 
 I have experience with APIs, CI/CD workflows, Nix-based reproducible and declarative systems, and I favor an Infrastructure as Code approach. I also enjoy writing software, particularly backend services, developer tooling, and infrastructure automation.
 
